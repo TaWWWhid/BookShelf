@@ -1,0 +1,80 @@
+[
+    {
+      "id": 1,
+      "bookName": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "image": "https://i.ibb.co/n01bhNW/to-kill-mockingbird-0-6246f05d04644ae5ba1a02409d943a13.jpg",
+      "review": "A timeless classic that explores themes of racial injustice and moral growth in a small Southern town.",
+      "totalPages": 336,
+      "rating": 4.5,
+      "category": "Fiction",
+      "tags": ["Classic", "Legal Drama"],
+      "publisher": "J. B. Lippincott & Co.",
+      "yearOfPublishing": 1960
+    },
+    {
+      "id": 2,
+      "bookName": "1984",
+      "author": "George Orwell",
+      "image": "https://i.ibb.co/LJKdQTZ/Nineteen-Eighty-Four-Front-Cover.jpg",
+      "review": "A dystopian novel portraying a totalitarian regime, exploring themes of surveillance and government control.",
+      "totalPages": 328,
+      "rating": 4.8,
+      "category": "Fiction",
+      "tags": ["Dystopian", "Political"],
+      "publisher": "Secker & Warburg",
+      "yearOfPublishing": 1949
+    },
+    {
+      "id": 3,
+      "bookName": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "image": "https://i.ibb.co/q7T51WW/9f6f81ec648dcbdf6691f2f590bd2b5b.jpg",
+      "review": "A tale of wealth, love, and tragedy set during the Roaring Twenties, exploring the American Dream.",
+      "totalPages": 180,
+      "rating": 4.2,
+      "category": "Fiction",
+      "tags": ["Classic", "Romance"],
+      "publisher": "Charles Scribner's Sons",
+      "yearOfPublishing": 1925
+    },
+    {
+      "id": 4,
+      "bookName": "Sapiens: A Brief History of Humankind",
+      "author": "Yuval Noah Harari",
+      "image": "https://i.ibb.co/jVS0PDX/sapiens-a-brief-history-of-Gg-Xxu-Re8rf-D-M-i-L8-Wm-C1-Ue.webp",
+      "review": "An engaging exploration of the history and evolution of Homo sapiens, spanning from ancient times to the modern era.",
+      "totalPages": 464,
+      "rating": 4.6,
+      "category": "Non-Fiction",
+      "tags": ["History", "Anthropology"],
+      "publisher": "Harper",
+      "yearOfPublishing": 2011
+    },
+    {
+      "id": 5,
+      "bookName": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "image": "https://i.ibb.co/WkXjtDY/3479-1.jpg",
+      "review": "A coming-of-age novel following Holden Caulfield's journey of self-discovery and rebellion.",
+      "totalPages": 224,
+      "rating": 4.0,
+      "category": "Fiction",
+      "tags": ["Coming-of-Age", "Modern Classic"],
+      "publisher": "Little, Brown and Company",
+      "yearOfPublishing": 1951
+    },
+    {
+      "id": 6,
+      "bookName": "The Alchemist",
+      "author": "Paulo Coelho",
+      "image": "https://i.ibb.co/Dgn7rz5/book-The-Alchemist-book.webp",
+      "review": "A philosophical novel about following one's dreams, discovering life's treasures, and finding one's destiny.",
+      "totalPages": 208,
+      "rating": 4.4,
+      "category": "Fiction",
+      "tags": ["Philosophy", "Adventure"],
+      "publisher": "HarperOne",
+      "yearOfPublishing": 1988
+    }
+  ]

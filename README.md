@@ -1,8 +1,24 @@
-link:https://66057b8059b63e132c6cdc9b--playful-cendol-190ab3.netlify.app/page
+# 📚 BookShelf Project
 
-About my project:
-1.Home page have 6 books list
-2.Whenever click any book we can see the book details
-3.If we find out out book click the button and save in list of book read section
-4.we alse the page list in chart
-5.Benifit we can learn what people say about reading book 
+**Live Demo:** [https://bookshelf-th.vercel.app/](https://bookshelf-th.vercel.app/)
+
+---
+
+## Project Overview
+BookShelf is an interactive web application for book enthusiasts to explore, track, and share their reading experiences.
+
+---
+
+## Features
+- **Home Page:** Displays a list of 6 books.  
+- **Book Details:** Click any book to view its details.  
+- **Mark as Read:** Save books you’ve read to a personal list.  
+- **Reading Stats:** View your reading list represented in a chart.  
+- **Community Insights:** See what people say about different books and learn from their experiences.
+
+---
+
+## Benefits
+- Easily track your reading habits.  
+- Discover what others think about books.  
+- Visualize your reading progress.
